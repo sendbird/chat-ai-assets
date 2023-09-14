@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Chat AI Assets
+  description: Chat AI Assets
+  annotations:
+    github.com/project-slug: sendbird/chat-ai-assets
+spec:
+  type: sample
+  lifecycle: experimental
+  owner: dep-developer-experience
+  system: sendbird-chat
