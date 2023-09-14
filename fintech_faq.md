@@ -1,0 +1,115 @@
+### General
+
+**Q: What is Fintech Demo App?**  
+A: Fintech Demo App is an all-in-one app that allows users to pay, chat, and explore. It's a digital marketplace platform offering a simple, secure, and reliable experience. Users can chat, transfer money, pay bills, make mobile payments, and engage in other entertainment features.
+
+**Q: What can I do with the app?**  
+A: Users can connect with friends and family via free video and voice calls, share videos, pictures, games, and text messages. You can also discover new friends, pay for services, and soon, listen to music and play games.
+
+**Q: Is Fintech Demo App free?**  
+A: Yes, it is a free digital marketplace app offering data or Wifi-based video and voice calls, as well as other features like music and gaming.
+
+**Q: Are there regional restrictions for voice messages?**  
+A: No, there are no limits. You can use the Fintech Demo App from any location.
+
+**Q: How do I register?**  
+A: 
+1. **Using mobile:**  
+   - Open the Fintech Demo App and tap Register.
+   - Choose your country code, input your mobile number, and click GET.
+   - Input the OTP you receive, verify, set your username and password.
+2. **Via Facebook/Google:**  
+   - Tap Register and choose Facebook. Fintech Demo App redirects to the Facebook login page.
+   - Log in to your Facebook account, authorize, and proceed to the registration page.
+   - Input your mobile number, verify, and set a password. 
+
+_Note: Only one mobile phone number can be used per Fintech Demo App account._
+
+**Q: How do I retrieve my password?**  
+A: 
+1. **Using mobile:**  
+   - Input your mobile number on the login page and select Forgot.
+   - Follow the verification steps and reset your password.
+2. **Via Facebook:**  
+   - Log in using Facebook on the Fintech Demo App.
+   - Navigate to the Me module > setting > account > Reset password.
+
+**Q: Will Fintech Demo App contacts see my phone number?**  
+A: Other users can view your phone number on the contact card if you provide permission. Adjust this in the Me module > setting > Privacy.
+
+**Q: What is the difference between Fintech Demo App ID and Username?**  
+A: Fintech Demo App ID is the same as Username.
+
+**Q: How can I find my friends?**  
+A: Search for your friend’s Fintech Demo App ID or phone number or scan their QR code.
+
+**Q: How do I delete message history?**  
+A: 
+1. **Clear all history:**  
+   - Go to Me module > setting > General > clear chat History.
+2. **Delete specific user's history:**  
+   - Slide the chat left and click delete.
+
+**Q: How do I know if my message has been read?**  
+A: A grey circle with a tick turns bold white when the message is read.
+
+**Q: How do I contact Fintech Demo App help centre?**  
+A: Navigate to query under settings or select "contact us".
+
+**Q: How do I contact Fintech Demo App for issues?**  
+A: You can report individual users or group chats through the app settings.
+
+
+### Payments
+
+**Q: Is transacting on Fintech Demo App safe?**
+A: Yes, the Fintech Demo App wallet ensures safety by adhering to industry-standard security measures. Your account is secured by a username and password. Additionally, the wallet has enhanced security features like biometric locks (using fingerprints for supported devices) or a pattern lock. Every transaction requires a pin for added security.
+
+**Q: How do I link my DemoCash card?**
+A:
+1. Click the **Wallet module**.
+    - Click the **Link button** on the wallet homepage.
+    - Tap the **add card icon** in the top right corner.
+2. Select the type of **DemoCash** you want to link.
+    - Click the **Next button**.
+    - Input your mobile number and get the OTP.
+    - After successful verification, your linking process is complete.
+
+**Q: How do I make P2P payments?**
+A:
+1. Click the **Wallet module**.
+    - Tap the **transfer icon** and proceed to the **Transfer page**.
+2. Click **Transfer to friends**.
+    - Select the user from your contact list.
+    - Go to the transfer details page, input the amount, and select the method to finalize the transfer.
+3. Click **Transfer to Specified Account**.
+    - Input the Receiver's account.
+    - Click next, input the amount, and initiate the transfer.
+
+**Q: How do I know whether my payment to a biller has been successful?**
+A: If the transfer is successful, the Fintech Demo App wallet chat will receive an Info card message displaying the transaction details.
+
+**Q: Will I be able to link my DemoCash account outside of Country?**
+A: Yes, you can link your DemoCash account from outside Country. However, you must activate roaming for this functionality.
+
+**Q: What are the advantages of using DemoCash on Fintech Demo App compared to USSD?**
+A: One of the main benefits is the convenience of making payments without having to exit the Fintech Demo App.
+
+### Technical
+
+**Q: How do I disable notifications?**
+A:
+1. Go to **Me > Settings > Notifications**.
+    - Under "When Fintech Demo App is not open", toggle **Show Notifications** on/off to enable or disable notification displays when the app is closed.
+    - Toggle **Show Preview** on/off to enable or disable notification previews.
+    - Toggle **Night mode** on/off to control notification receipt between 23:00hrs and 07:00hrs.
+    - Under "When Fintech Demo App is open", toggle **Notifications Sounds** on/off to enable or disable sounds.
+    - Toggle **Alert vibrate** on/off to control vibration alerts for notifications.
+
+**Q: How do I set privacy settings?**
+A:
+1. Go to **Me > Settings > Privacy**.
+    - Under **Friends**, toggle **Approve Requests** on/off to decide whether to manually approve contact requests or accept them automatically.
+    - Under **Contact Info**, toggle **Viewable By Friends** on/off to control if friends can see your contact details.
+    - Toggle **Viewable By All** on/off to decide if anyone can view your contact information.
+    - Toggle **Stranger contact** on/off to allow/block strangers from messaging you.
